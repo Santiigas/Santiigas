@@ -2,11 +2,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagooliveira/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santii.oliveira/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LordSantiYT/featured)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@santiigas/featured)
 
 Sou fascinado em programação e criação de projetos audiovisuais. Com 15 anos comecei a aprender Photoshop. Aos 18 anos de idade eu já estava decidido que queria trabalhar com algo onde eu pudesse expandir minha criatividade e criar bons projetos. Encontrei a programação e desenvolvimento como uma maneira de expressar tudo o que aprendi e venho aprendendo todos os dias.
 
-No quesito sentimental fico muito feliz e empolgado quando vejo que alguma criação minha, seja uma página na web ou uma arte, fez a diferença e agregou valor para alguma pessoa ou instituição. Não tenho dúvida alguma que esse é o meu chamado e que irei colher bons frutos no decorrer da minha carreira.
+No quesito sentimental fico muito feliz e empolgado quando vejo que alguma criação minha, seja uma página na web ou uma arte, fez a diferença e agregou valor para alguma pessoa ou instituição. Não tenho dúvida alguma que esse é o meu chamado e que irei colher bons frutos no decorrer da minha carreira
 
 ## Possuo conhecimento em: 
 <div style="display: inline_block">
@@ -29,13 +29,8 @@ No quesito sentimental fico muito feliz e empolgado quando vejo que alguma cria�
 ## Painel:
 ![Santiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiigas&show_icons=true&theme=transparent)
 <hr>
-A derteminação é uma força que nunca cai! Acredite nos seus sonhos 
-<!--
-**Santiigas/Santiigas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started::
-
-- 🔭 I’m currently working on ...
+A determinação é uma força que nunca cai. 
+Acredite nos seus sonhos! 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
