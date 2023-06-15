@@ -6,7 +6,7 @@
 
 Sou fascinado em programação e criação de projetos audiovisuais. Com 15 anos comecei a aprender Photoshop. Aos 18 anos de idade eu já estava decidido que queria trabalhar com algo onde eu pudesse expandir minha criatividade e criar bons projetos. Encontrei a programação e desenvolvimento como uma maneira de expressar tudo o que aprendi e venho aprendendo todos os dias.
 
-No quesito sentimental fico muito feliz e empolgado quando vejo que alguma criação minha, seja uma página na web ou uma arte, fez a diferença e agregou valor para alguma pessoa ou instituição. Não tenho dúvida alguma que esse é o meu chamado e que irei colher bons frutos no decorrer da minha carreira
+Fico muito feliz e empolgado quando vejo que alguma criação minha, seja uma página na web ou uma arte, fez a diferença e agregou valor para alguma pessoa ou instituição. Não tenho dúvida alguma que esse é o meu chamado e que irei colher bons frutos no decorrer da minha carreira
 
 ## Possuo conhecimento em: 
 <div style="display: inline_block">
