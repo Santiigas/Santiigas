@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santii.oliveira/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@santiigas/featured)
 
-studante de análise e desenvolvimento de sistemas, criador de jogos, ilustrações e apaixonado por audiovisual. No tempo livre, um rato de academia.
+Estudante de análise e desenvolvimento de sistemas, designer, criador de jogos, ilustrações e apaixonado por audiovisual. No tempo livre, um rato de academia.
 
 ## Possuo conhecimento em: 
 <div style="display: inline_block">
