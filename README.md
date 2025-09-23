@@ -2,7 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagooliveira/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santii.oliveira/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@santiigas/featured)
 
 Estudante de análise e desenvolvimento de sistemas, designer, criador de jogos, ilustrações e apaixonado por audiovisual.
 
@@ -27,5 +26,3 @@ Estudante de análise e desenvolvimento de sistemas, designer, criador de jogos,
 ## Painel:
 ![Santiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiigas&show_icons=true&theme=transparent)
 <hr>
-A determinação é uma força que nunca cai. 
-Acredite nos seus sonhos! 
