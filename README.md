@@ -1,9 +1,6 @@
 ## Olá, eu sou Santiago Oliveira👨‍💻
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagooliveira/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santii.oliveira/)
-
-Estudante de análise e desenvolvimento de sistemas, designer, criador de jogos, ilustrações e apaixonado por audiovisual.
+Sou brasileiro, entusiasta de tecnologia, audiovisual e musculação. Atuo no desenvolvimento de sistemas com foco em APIs e arquitetura web, e tenho grande interesse por UI/UX design — criando interfaces modernas, intuitivas e centradas na experiência do usuário.
+Sou o criador da ferramenta LayoutColors.com, voltada para designers e desenvolvedores que buscam testar combinações de cores em layouts responsivos. Atualmente, venho explorando o universo da criação de jogos, unindo lógica de programação à criatividade visual.
 
 ## Possuo conhecimento em: 
 <div style="display: inline_block">
@@ -15,13 +12,9 @@ Estudante de análise e desenvolvimento de sistemas, designer, criador de jogos,
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div><br/>
-
-## No momento estou estudando:
-<div style="display: inline_block">
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div>
+</div><br/>
 
 ## Painel:
 ![Santiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiigas&show_icons=true&theme=transparent)
