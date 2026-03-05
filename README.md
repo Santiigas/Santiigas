@@ -1,5 +1,5 @@
 ## Olá, eu sou Santiago Oliveira👨‍💻
-Sou brasileiro, entusiasta de tecnologia, audiovisual e musculação. Atuo no desenvolvimento de sistemas com foco em APIs e arquitetura web, e tenho grande interesse por UI/UX design — criando interfaces modernas, intuitivas e centradas na experiência do usuário.
+Sou brasileiro, entusiasta de tecnologia e audiovisual. Atuo no desenvolvimento de sistemas com foco em APIs e arquitetura web, e tenho grande interesse por UI/UX design — criando interfaces modernas, intuitivas e centradas na experiência do usuário.
 Sou o criador da ferramenta LayoutColors.com, voltada para designers e desenvolvedores que buscam testar combinações de cores em layouts responsivos. Atualmente, venho explorando o universo da criação de jogos, unindo lógica de programação à criatividade visual.
 
 ## Possuo conhecimento em: 
